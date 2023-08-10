@@ -1,0 +1,3 @@
+[submodule "KiCad_Libs"]
+	path = KiCad_Libs
+	url = git@github.com:Link-Model/KiCad_Libs.git
